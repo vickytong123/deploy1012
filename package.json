@@ -1,0 +1,11 @@
+{
+  "name": "test-tcb-deploy",
+  "version": "1.0.0",
+  "private": true,
+  "description": "CloudBase 静态站点 + 云函数示例（无第三方依赖）",
+  "scripts": {
+    "install:noop": "echo 'no dependencies to install'"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
